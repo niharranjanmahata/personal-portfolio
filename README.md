@@ -15,10 +15,6 @@ This portfolio is created to:
 - Easy-to-read layout
 - Beginner-friendly structure
 
-## 👤 Me
-GitHub: https://github.com/niharranjanmahata
-Linkedin:https://www.linkedin.com/in/nihar-ranjan-mahata-181043315
-
 ## 🔗 Connect With Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/nihar-ranjan-mahata-181043315]
 - 🧑‍💻 GitHub: [https://github.com/niharranjanmahata]
