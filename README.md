@@ -10,7 +10,7 @@ This portfolio is created to:
 ## 🛠 Technologies Used
 - HTML5
 - CSS3
- 
+- JavaScript
 ## ✨ Features
 - Easy-to-read layout
 - Beginner-friendly structure
